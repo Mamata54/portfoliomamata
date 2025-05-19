@@ -113,6 +113,16 @@ nav .fa-solid {
     flex-basis: 45%;
 }
 
+.about-col-3 p{
+    font-weight: bolder;
+    font-size: larger;
+    color: #ff004f;
+}
+
+.about-col-3 ul li{
+    list-style: none;
+}
+
 .sub-titles {
     font-size: 60px;
     font-weight: 600;
@@ -230,7 +240,7 @@ nav .fa-solid {
 }
 
 .work img {
-    width: 100%;
+    width: 50%;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
